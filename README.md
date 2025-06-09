@@ -10,7 +10,15 @@ I believe in continuous learning and consistent progress. I’m excited to conne
 - 🔁 Revising **50+ DSA problems** for problem-solving mastery  
 - 🧱 Studying and implementing **Low-Level Design (LLD) patterns** weekly  
 - 🌲 Revising **Non-Linear DSA topics** such as trees, graphs, heaps, and dynamic programming  
-- 💼 Actively applying for **internships and entry-level SDE positions**  
+- 💼 Actively applying for **internships and entry-level SDE positions**
+
+  
+## Tech Stack
+- **Languages:** Python, Java(basic)
+- **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Graphs
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** Object-Oriented Programming, Low-Level Design
+
 
 ### Projects
 - 🚀 **DSA Project:** Practical implementation of various algorithms and problem-solving patterns  
