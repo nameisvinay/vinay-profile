@@ -1,7 +1,10 @@
 # Hi, I'm Vinay 👋
 
 ### About Me
-I'm a passionate learner focused on mastering Data Structures & Algorithms, Low-Level Design, and preparing for Software Development Engineer (SDE) roles at product-based companies. I’m actively working on projects to strengthen my coding and design skills.
+I’m Vinay, a motivated software engineer in training with a strong focus on mastering Data Structures & Algorithms and Low-Level Design. Currently, I’m sharpening my problem-solving skills through extensive practice and working on projects that demonstrate practical applications of these concepts. I’m passionate about building efficient, scalable software and actively preparing for internships and entry-level roles at product-based companies.
+
+I believe in continuous learning and consistent progress. I’m excited to connect with the developer community and contribute to meaningful projects.
+
 
 ### What I'm Learning
 - 🔁 Revising **50+ DSA problems** for problem-solving mastery  
