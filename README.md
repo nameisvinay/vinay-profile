@@ -26,7 +26,8 @@ I believe in continuous learning and consistent progress. I’m excited to conne
 
 ### Get in Touch
 Feel free to explore my repositories and connect with me!  
-[LinkedIn](https://www.linkedin.com/in/vinaykandregula/) | [Email](vinaykandregula.180@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vinaykandregula/) | 📫 Email: [vinaykandregula.180@gmail.com](mailto:vinaykandregula.180@gmail.com)
+
 ---
 
 *Thank you for visiting my profile!*
