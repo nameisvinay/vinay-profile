@@ -7,7 +7,7 @@ I believe in continuous learning and consistent progress. I’m excited to conne
 
 
 ### What I'm Learning
-- 🔁 Revising **200+ DSA problems** for problem-solving mastery  
+- 🔁 Revising **100+ DSA problems** for problem-solving mastery  
 - 🧱 Studying and implementing **Low-Level Design (LLD) patterns** weekly  
 - 🌲 Revising **Non-Linear DSA topics** such as trees, graphs, heaps, and dynamic programming  
 - 💼 Actively applying for **internships and entry-level SDE positions**
